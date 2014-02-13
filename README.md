@@ -1,4 +1,4 @@
 sPy
 ===
 
-Keylogger applocation using Python
+Python Based Computer remote surveillance tool
